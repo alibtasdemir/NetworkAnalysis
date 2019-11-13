@@ -1,0 +1,32 @@
+File Name ------------------------ data/cit-patent.edges
+workers: 1
+self-loops: 0
+Reading time 36.4862
+|V|: 3774768
+|E|: 16518947
+p: 2.31863e-06
+d_max: 793
+d_avg: 8.7523
+explicit reduce is set to 4 seconds
+K: 65
+k-cores time: 3.33251, ub: 65
+[pmc: initial k-core pruning]  before pruning: |V| = 3774768, |E| = 16518947
+[pmc: initial k-core pruning]  after pruning:  |V| = 3774768, |E| = 16518947
+[pmc]  initial pruning took 0.46442 sec
+[pmc: sorting neighbors]  |E| = 33037894, |E_sorted| = 33037894
+|V| = 3774768
+*** [pmc: thread 1]   current max clique = 2,  time = 2.02511 sec
+*** [pmc: thread 1]   current max clique = 3,  time = 2.08899 sec
+*** [pmc: thread 1]   current max clique = 4,  time = 2.13459 sec
+*** [pmc: thread 1]   current max clique = 5,  time = 2.17509 sec
+*** [pmc: thread 1]   current max clique = 6,  time = 2.23311 sec
+*** [pmc: thread 1]   current max clique = 7,  time = 2.42708 sec
+*** [pmc: thread 1]   current max clique = 8,  time = 2.6217 sec
+*** [pmc: thread 1]   current max clique = 9,  time = 3.1528 sec
+*** [pmc: thread 1]   current max clique = 10,  time = 3.50701 sec
+*** [pmc: thread 1]   current max clique = 11,  time = 4.30762 sec
+-----------------------------------------------------------------------
+Time taken: 8.16933 SEC
+Size (omega): 11
+Maximum clique: 2443062 1495852 1267829 2260515 1142169 3249595 3493028 2070252 1627636 3028747 1969225 
+

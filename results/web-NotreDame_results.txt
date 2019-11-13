@@ -1,0 +1,54 @@
+File Name ------------------------ data/web-NotreDame.edges
+workers: 1
+self-loops: 27455
+Reading time 1.00861
+|V|: 325729
+|E|: 1469679
+p: 2.77039e-05
+d_max: 10721
+d_avg: 9.02394
+explicit reduce is set to 4 seconds
+K: 306
+k-cores time: 0.02321, ub: 306
+[pmc: initial k-core pruning]  before pruning: |V| = 325729, |E| = 1469679
+[pmc: initial k-core pruning]  after pruning:  |V| = 325729, |E| = 1469679
+[pmc]  initial pruning took 0.021852 sec
+[pmc: sorting neighbors]  |E| = 2939358, |E_sorted| = 2939358
+|V| = 325729
+*** [pmc: thread 1]   current max clique = 2,  time = 0.301872 sec
+*** [pmc: thread 1]   current max clique = 3,  time = 0.323262 sec
+*** [pmc: thread 1]   current max clique = 4,  time = 0.330543 sec
+*** [pmc: thread 1]   current max clique = 5,  time = 0.332551 sec
+*** [pmc: thread 1]   current max clique = 6,  time = 0.334196 sec
+*** [pmc: thread 1]   current max clique = 7,  time = 0.336133 sec
+*** [pmc: thread 1]   current max clique = 8,  time = 0.337492 sec
+*** [pmc: thread 1]   current max clique = 9,  time = 0.343613 sec
+*** [pmc: thread 1]   current max clique = 10,  time = 0.344728 sec
+*** [pmc: thread 1]   current max clique = 11,  time = 0.345415 sec
+*** [pmc: thread 1]   current max clique = 12,  time = 0.347533 sec
+*** [pmc: thread 1]   current max clique = 13,  time = 0.353441 sec
+*** [pmc: thread 1]   current max clique = 14,  time = 0.359589 sec
+*** [pmc: thread 1]   current max clique = 15,  time = 0.36208 sec
+*** [pmc: thread 1]   current max clique = 16,  time = 0.363074 sec
+*** [pmc: thread 1]   current max clique = 17,  time = 0.363853 sec
+*** [pmc: thread 1]   current max clique = 19,  time = 0.365203 sec
+*** [pmc: thread 1]   current max clique = 20,  time = 0.365853 sec
+*** [pmc: thread 1]   current max clique = 23,  time = 0.36678 sec
+*** [pmc: thread 1]   current max clique = 27,  time = 0.368614 sec
+*** [pmc: thread 1]   current max clique = 28,  time = 0.37423 sec
+*** [pmc: thread 1]   current max clique = 31,  time = 0.378098 sec
+*** [pmc: thread 1]   current max clique = 33,  time = 0.453707 sec
+*** [pmc: thread 1]   current max clique = 35,  time = 0.461147 sec
+*** [pmc: thread 1]   current max clique = 38,  time = 0.47519 sec
+*** [pmc: thread 1]   current max clique = 40,  time = 0.493905 sec
+*** [pmc: thread 1]   current max clique = 44,  time = 0.508604 sec
+*** [pmc: thread 1]   current max clique = 46,  time = 0.529264 sec
+*** [pmc: thread 1]   current max clique = 52,  time = 0.539574 sec
+*** [pmc: thread 1]   current max clique = 54,  time = 0.565345 sec
+*** [pmc: thread 1]   current max clique = 56,  time = 0.582683 sec
+*** [pmc: thread 1]   current max clique = 70,  time = 0.603085 sec
+*** [pmc: thread 1]   current max clique = 155,  time = 0.640015 sec
+-----------------------------------------------------------------------
+Time taken: 0.860569 SEC
+Size (omega): 155
+Maximum clique: 12130 260553 199032 235905 199031 236096 260732 260731 260730 260729 260728 260727 260726 260725 260724 260723 260722 260721 260720 260719 260718 260717 260716 260715 260714 260713 260712 260711 260710 260709 260708 260707 260706 260705 260704 260703 260702 260701 260700 260699 260698 260697 260696 260695 260694 260693 260692 260691 260690 260689 260688 260687 260686 260685 260684 260683 260682 260681 260680 260679 260678 260677 260676 260675 260674 260673 260672 260671 260670 260669 260668 260667 260666 260665 260664 260663 260662 260661 260660 260659 260658 260657 260656 260655 260654 260653 260652 260651 260650 260649 260648 260647 260646 260645 260644 260643 260642 260641 260640 260639 260638 260637 260636 260635 260634 260633 260632 260631 260630 260629 260628 260627 260626 260625 260624 260623 260622 260621 260620 260619 260618 260617 260616 260615 260614 260613 260612 260611 260610 260609 260608 260607 260606 260605 260604 260603 260602 260601 260600 260599 260598 260597 260596 260595 260594 260593 260592 260591 260590 260589 260588 260587 260586 260585 260584 
