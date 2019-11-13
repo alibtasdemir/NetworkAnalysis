@@ -1,0 +1,3 @@
+,Name,Vertex,Edges,Density,Max. Degree,Avg. Degree,Max. k-core,Avg. Clustering Coeff.,Diameter,Avg. Path Length,Total Triangles,Avg. Eigenvector Centrality
+0,test.edges,4,6,1.0,3,3.0,3,1.0,1,1.0,4.0,0.5
+1,web-polblogs.edges,643,2280,0.011046351070478628,165,7.091757387247278,12,0.2320161939769754,10,3.828088739020266,3004.0,0.015605412923074548
