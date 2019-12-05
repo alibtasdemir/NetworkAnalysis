@@ -1,3 +1,8 @@
+"""
+This code provides automation for ESCAPE algorithm (https://bitbucket.org/seshadhri/escape/src/master/) if
+large amount of graph files will be proccessed.
+"""
+
 import glob
 import os
 import numpy as np
@@ -16,6 +21,7 @@ edge_list_pattern = os.path.join(graph_folder, "*.edges")
 
 print("Sanitizing txt files")
 
+# Sanitizing is handling which required step for ESCAPE algorithm.
 for filename in glob.glob(to_sanitizer_pattern):
     # python sanitize.py <FOLDER> <FILE>
     command = py2 + SPACE + sanitizer + SPACE + graph_folder + SPACE + filename
